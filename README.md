@@ -31,10 +31,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![eig](.png)
+![eig](iphone.jpeg)
 
 ### Output:
-![eig](.png)
+![eig](iphonemodel.png)
 
 ### Name:NITEESH.M
 ### Register Number:212222230098
